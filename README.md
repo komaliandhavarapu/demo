@@ -1,3 +1,3 @@
 # demo
 
-openwithlove7stageemotionalversion.vercel.app
+https://komaliandhavarapu.github.io/demo/
